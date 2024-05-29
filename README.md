@@ -11,7 +11,7 @@ Remove tour: Remove a tour from the list if you're not interested.
 Read more: Expand the tour description to read more details.
 Re-fetch tours: Refresh the list of tours.
 
-The Birthday Buddy is deployed and accessible [here](<https://de-tours-app.netlify.app/>).
+The Tours App is deployed and accessible [here](<https://de-tours-app.netlify.app/>).
 
 ## Technologies Used
 
